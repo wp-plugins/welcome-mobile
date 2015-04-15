@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Welcome! Mobile 1.0.0 Croatian Translation\n"
+"POT-Creation-Date: 2015-04-13 14:16+0100\n"
+"PO-Revision-Date: 2015-04-13 14:16+0100\n"
+"Last-Translator: Matija Culjak <matija.culjak@gmail.com>\n"
+"Language-Team: Matija Culjak <matija.culjak@gmail.com>\n"
+"Language: hr_HR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: welcome-mobile.php:59
+msgid "Welcome! Mobile Settings"
+msgstr "Welcome! Mobile Postavke"
+
+#: welcome-mobile.php:60
+msgid ""
+"Choose between Android &amp; iOS or use a default message for all mobile "
+"platforms."
+msgstr ""
+"Izaberite između Android &amp; iOS-a ili koristite zadanu poruku za sve "
+"mobilne platforme."
+
+#: welcome-mobile.php:66
+msgid "Display the welcome message on:"
+msgstr "Prikaži poruku dobrodošlice na:"
+
+#: welcome-mobile.php:69
+msgid "top of the page"
+msgstr "vrhu stranice"
+
+#: welcome-mobile.php:70
+msgid "bottom of the page"
+msgstr "dnu stranice"
+
+#: welcome-mobile.php:75
+msgid "Message background color:"
+msgstr "Pozadinska boja poruke:"
+
+#: welcome-mobile.php:80
+msgid "Use default welcome message on all mobile platforms?"
+msgstr "Koristi zadanu poruku dobrodošlice na svim mobilnim platformama?"
+
+#: welcome-mobile.php:85
+msgid "Default welcome message:"
+msgstr "Zadana poruka dobrodošlice:"
+
+#: welcome-mobile.php:96
+msgid "Android welcome message:"
+msgstr "Android poruka dobrodošlice:"
+
+#: welcome-mobile.php:107
+msgid "iOS welcome message:"
+msgstr "iOS poruka dobrodošlice:"
+
+#: welcome-mobile.php:118
+msgid "How long will the message be visible?"
+msgstr "Koliko dugo će poruka biti vidljiva?"
+
+#: welcome-mobile.php:119
+msgid "(enter the number of seconds)"
+msgstr "(unesite broj sekundi)"
+
+#: welcome-mobile.php:123
+msgid "Enable the close button?"
+msgstr "Omogući gumb za zatvaranje?"
+
+#: welcome-mobile.php:126
+msgid "yes"
+msgstr "da"
+
+#: welcome-mobile.php:127
+msgid "no"
+msgstr "ne"
+
+#: welcome-mobile.php:132
+msgid "How long until the cookie expires?"
+msgstr "Koliko dugo će cookie biti važeći?"
+
+#: welcome-mobile.php:133
+msgid "(enter the number of days)"
+msgstr "(unesite broj dana)"
+
+#: welcome-mobile.php:136
+msgid ""
+"<strong>NOTE</strong>: Welcome message will always be displayed every time "
+"the user visits your site unless she clicks on the close button in which "
+"case cookie gets stored locally. Message will not be visible unless the "
+"cookie expires (20 days by default) or gets deleted."
+msgstr ""
+"<strong>NAPOMENA</strong>: Poruka dobrodošlice će se prikazivati svaki put "
+"kada korisnik posjeti vašu stranicu ukoliko ne klikne na gumb za zatvaranje "
+"u kojem će se slučaju cookie pohraniti lokalno na posjetiteljevom uređaju. "
+"Poruka neće biti vidljiva sve dok cookie ne istekne (20 dana ukoliko "
+"drugačije nije zadano) ili ako se cookie obriše."

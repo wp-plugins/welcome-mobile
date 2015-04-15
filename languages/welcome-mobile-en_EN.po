@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Welcome! Mobile 1.0.0\n"
+"POT-Creation-Date: 2015-04-13 14:15+0100\n"
+"PO-Revision-Date: 2015-04-13 14:15+0100\n"
+"Last-Translator: Matija Culjak <matija.culjak@gmail.com>\n"
+"Language-Team: Matija Culjak <matija.culjak@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: welcome-mobile.php:59
+msgid "Welcome! Mobile Settings"
+msgstr "Welcome! Mobile Settings"
+
+#: welcome-mobile.php:60
+msgid ""
+"Choose between Android &amp; iOS or use a default message for all mobile "
+"platforms."
+msgstr ""
+"Choose between Android &amp; iOS or use a default message for all mobile "
+"platforms."
+
+#: welcome-mobile.php:66
+msgid "Display the welcome message on:"
+msgstr "Display the welcome message on:"
+
+#: welcome-mobile.php:69
+msgid "top of the page"
+msgstr "top of the page"
+
+#: welcome-mobile.php:70
+msgid "bottom of the page"
+msgstr "bottom of the page"
+
+#: welcome-mobile.php:75
+msgid "Message background color:"
+msgstr "Message background color:"
+
+#: welcome-mobile.php:80
+msgid "Use default welcome message on all mobile platforms?"
+msgstr "Use default welcome message on all mobile platforms?"
+
+#: welcome-mobile.php:85
+msgid "Default welcome message:"
+msgstr "Default welcome message:"
+
+#: welcome-mobile.php:96
+msgid "Android welcome message:"
+msgstr "Android welcome message:"
+
+#: welcome-mobile.php:107
+msgid "iOS welcome message:"
+msgstr "iOS welcome message:"
+
+#: welcome-mobile.php:118
+msgid "How long will the message be visible?"
+msgstr "How long will the message be visible?"
+
+#: welcome-mobile.php:119
+msgid "(enter the number of seconds)"
+msgstr "(enter the number of seconds)"
+
+#: welcome-mobile.php:123
+msgid "Enable the close button?"
+msgstr "Enable the close button?"
+
+#: welcome-mobile.php:126
+msgid "yes"
+msgstr "yes"
+
+#: welcome-mobile.php:127
+msgid "no"
+msgstr "no"
+
+#: welcome-mobile.php:132
+msgid "How long until the cookie expires?"
+msgstr "How long until the cookie expires?"
+
+#: welcome-mobile.php:133
+msgid "(enter the number of days)"
+msgstr "(enter the number of days)"
+
+#: welcome-mobile.php:136
+msgid ""
+"<strong>NOTE</strong>: Welcome message will always be displayed every time "
+"the user visits your site unless she clicks on the close button in which "
+"case cookie gets stored locally. Message will not be visible unless the "
+"cookie expires (20 days by default) or gets deleted."
+msgstr ""
+"<strong>NOTE</strong>: Welcome message will always be displayed every time "
+"the user visits your site unless she clicks on the close button in which "
+"case cookie gets stored locally. Message will not be visible unless the "
+"cookie expires (20 days by default) or gets deleted."
