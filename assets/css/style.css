@@ -1,0 +1,7 @@
+.form-table th {width: 423px;}
+td.wp-editor .wp-editor-wrap {width: 700px;}
+tr.toHide {display: none;}
+.welcome-message {width: 100%; text-align: center; z-index: 99999;}
+.top, .bottom {position: fixed;}
+.top {top: 0;}
+.bottom {bottom: 0;}
